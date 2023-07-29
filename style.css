@@ -1,0 +1,17 @@
+.color {
+  display: flex;
+  justify-content: center;
+  margin-top: 300px;
+  height: 100%;
+}
+body {
+  background-color: red;
+}
+button {
+  background: transparent;
+  color: white;
+  border: none;
+  font-size: 2em;
+  border: 1px solid white;
+  cursor: pointer;
+}
